@@ -1,0 +1,4 @@
+text,sentiment
+"I love this app!",Positive
+"This is awful!",Negative
+"It’s okay, not great.",Neutral
