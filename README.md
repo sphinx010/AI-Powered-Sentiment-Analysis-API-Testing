@@ -1,6 +1,5 @@
-![CI](https://github.com/sphinx010/ai-sentiment-qa-testing/actions/workflows/pytest.yml/badge.svg)
 # AI Sentiment Analysis API QA
-
+![CI](https://github.com/sphinx010/ai-sentiment-qa-testing/actions/workflows/pytest.yml/badge.svg)
 This project performs automated testing on a free sentiment analysis model using a public API from Hugging Face. It validates classification accuracy, latency, and edge case handling.
 
 ## Tools Used
